@@ -7,7 +7,7 @@ const cpmDisplay = document.querySelector(".cpm span");
 const tryAgainBtn = document.querySelector("button");
 
 let timer,
-    maxTime = 30,
+    maxTime = 45,
     timeLeft = maxTime,
     charIndex = 0,
     mistakes = 0,
